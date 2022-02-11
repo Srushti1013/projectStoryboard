@@ -1,4 +1,5 @@
 # Story World: Murder Mystery Interactive Story Chat
+
 ## Who killed Steve? - Minecraft Edition
 
 ### Basic Overview:
@@ -18,6 +19,9 @@ Who could be responsible for Steve's descent?
 Answer the questions asked by Dectective Pig honestly to determine who the culprit is!
 
 ### Bayesian Network Model:
+
+<img width="729" alt="BNModel" src="https://user-images.githubusercontent.com/69876473/153525667-257b7bfe-555b-496e-a065-9f53270fe3c1.png">
+
 M1: Chicken tired of watching its family get cooked for food: chicken
 
 M2: Skeleton bored and wanted drama :skeleton
