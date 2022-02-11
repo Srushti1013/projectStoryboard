@@ -19,11 +19,19 @@ Answer the questions asked by Dectective Pig honestly to determine who the culpr
 
 ### Bayesian Network Model:
 M1: Chicken tired of watching its family get cooked for food: chicken
+
 M2: Skeleton bored and wanted drama :skeleton
+
 A1: Chicken pecked Steve: peck_S
+
 A2: Skeleton always shoots arrows for amusement:shoot_S
+
 O1: Chicken is always hungry:hungry_S
+
 O2: Lots of seeds dropped near cliff:seed_L
+
 O3: Steve despawn remains below cliff (crime scene):despawn_S
+
 O4: Used arrows found near the cliff:arrow_C 
+
 O5: Skeleton chased Steve endlessly: chase_S
