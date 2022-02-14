@@ -43,4 +43,4 @@ O5: Skeleton chased Steve endlessly: chase_S
 ### Consult:
 To consult use similar to:
 
-consult('~/Documents/CSC429FINALPROJECT.pl'), consult('~/Documents/fig15_11_mod.pl'),consult('~/Documents/fig15_7_mod_1.6.2017.pl').
+consult('~/Documents/CSC429FINALPROJECT.pl'),consult('~/Documents/fig15_11_mod.pl'),consult('~/Documents/fig15_7_mod_1.6.2017.pl').
